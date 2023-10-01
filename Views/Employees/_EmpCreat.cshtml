@@ -1,0 +1,103 @@
+﻿@{
+    Employee emp = (Employee)ViewBag.CurrentEmployee;
+}
+<div class="row">
+    <form class="col-4" method="post" asp-controller="Employees" asp-action="AddNew" enctype="multipart/form-data">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div>
+            <label asp-for="@emp.FullName"></label>
+            <input type="text" asp-for="@emp.FullName" class="form-control" />
+            <span asp-validation-for="@emp.FullName" class="text-danger"></span>
+        </div>
+
+        <div>
+            <label asp-for="@emp.Position"></label>
+            <input type="text" asp-for="@emp.Position" class="form-control" />
+            <span asp-validation-for="@emp." class="text-danger"></span>
+        </div>
+
+        <div>
+            <label asp-for="@emp.Salary"></label>
+            <input type="number" asp-for="@emp.Salary" class="form-control" />
+            <span asp-validation-for="@emp.Salary" class="text-danger"></span>
+        </div>
+
+        <div>
+            <label asp-for="@emp.BirthDate"></label>
+            <input asp-for="@emp.BirthDate" class="form-control" />
+            <span asp-validation-for="@emp.BirthDate" class="text-danger"></span>
+        </div>
+
+        <div>
+            <label asp-for="@emp.JoinDateTime"></label>
+            <input asp-for="@emp.JoinDateTime" class="form-control" />
+            <span asp-validation-for="@emp.JoinDateTime" class="text-danger"></span>
+        </div>
+
+        <div class="mt-2">
+            <label asp-for="@emp.IsActive"></label>
+            <input type="checkbox" asp-for="@emp.IsActive" />
+            <span asp-validation-for="@emp.IsActive" class="text-danger"></span>
+        </div>
+
+        <div>
+            <label asp-for="@emp.AttendanceTime"></label>
+            <input asp-for="@emp.AttendanceTime" class="form-control" />
+            <span asp-validation-for="@emp.AttendanceTime" class="text-danger"></span>
+        </div>
+
+        <div>
+            <label asp-for="@emp.PhoneNumber"></label>
+            <input asp-for="@emp.PhoneNumber" class="form-control" />
+            <span asp-validation-for="@emp.PhoneNumber" class="text-danger"></span>
+        </div>
+
+        <div>
+            <label asp-for="@emp.Code"></label>
+            <input asp-for="@emp.Code" class="form-control" />
+            <span asp-validation-for="@emp.Code" class="text-danger"></span>
+        </div>
+
+        <div>
+            <label asp-for="@emp.ConfirmCode"></label>
+            <input asp-for="@emp.ConfirmCode" class="form-control" />
+            <span asp-validation-for="@emp.ConfirmCode" class="text-danger"></span>
+        </div>
+        <div>
+            <label asp-for="@emp.DepartmentId"></label>
+            <select class="form-control" asp-for="@emp.DepartmentId"
+                    asp-items="@(new SelectList(ViewBag.AllDepartments, "Id", "Description"))">
+                <option selected disabled>Select...</option>
+            </select>
+            <span asp-validation-for="@emp.DepartmentId" class="text-danger"></span>
+        </div>
+        <div>
+            <label asp-for="@emp.ImagePath"></label>
+            <input type="file" name="imageFormFile" id="imageFormFile" accept=".png,.jpg" class="form-control" onchange="AddImage()" />
+            <span asp-validation-for="@emp.ImagePath" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary mt-2">Add</button>
+    </form>
+
+    <img src="" id="empImage" class="col-4 card" />
+</div>
+
+<a asp-controller="Employees" asp-action="GetIndexView">Back to List</a>
+
+<partial name="_TechnicalSupportContacts" />
+
+@section Scripts{
+    <script>
+        function AddImage() {
+            document.getElementById('empImage').src = window.URL.createObjectURL(document.getElementById('imageFormFile').files[0]);
+
+            // var input = document.getElementById('imageFormFile');
+            // var imgFile = input.files[0];
+            // var imgUrl = window.URL.createObjectURL(imgFile);
+            // var imgElement = document.getElementById('empImage');
+            // imgElement.src = imgUrl;
+        }
+    </script>
+}

@@ -1,0 +1,179 @@
+﻿<h1 class="alert alert-success text-center">Welcome to SkyLine!</h1>
+
+<h1 class="alert alert-info text-center">Home Index View</h1>
+
+@*@DateTime.Now
+<br />
+@(5*6)
+@{
+    string company = "Sky line for software solutions";
+    string manager = "Hosny Salem";
+    string Email = "infoskyline.com";
+    string address = "15 Ahmed orabi st.";
+}
+
+<h2 class=" alert alert-info">@company</h2>
+<h3 class=" alert alert-warning">@manager</h3>
+<h4 class=" alert alert-secondary">Welcome to @company! you can contact us on @Email or visit us on @address</h4>
+
+@{
+    Employee emp = new Employee
+            {
+                Id = 1,
+                FullName = "Hosny Salem",
+                Position = "Developer",
+                Salary = 12500,
+                BirthDate = new DateTime(2000, 10, 5),
+                JoinDateTime = new DateTime(2020, 10, 25),
+                IsActive = true
+            };
+}
+
+<d1 class="row">
+    <dt class="col-1">Id</dt>
+    <dd class="col-11">@emp.Id</dd>
+
+    <dt class="col-1">Full Name</dt>
+    <dd class="col-11">@emp.FullName</dd>
+
+    <dt class="col-1">Position</dt>
+    <dd class="col-11">@emp.Position</dd>
+
+    <dt class="col-1">Sallary</dt>
+    <dd class="col-11">@emp.Salary</dd>
+
+    <dt class="col-1">Birth Date</dt>
+    <dd class="col-11">@emp.BirthDate</dd>
+
+    <dt class="col-1">Join Date</dt>
+    <dd class="col-11">@emp.JoinDateTime</dd>
+
+    <dt class="col-1">Is Active</dt>
+    <dd class="col-11">@emp.IsActive</dd>
+
+</d1>
+<hr />
+
+@{
+    List<Employee> employees = new List<Employee>
+    {
+        emp,
+          new Employee{Id = 2, FullName = "Bahaa Ali", Position = "Tester", Salary = 6500, BirthDate = new DateTime(2000, 1, 17), JoinDateTime = new DateTime(2022, 3, 29), IsActive = true
+          },
+          new Employee
+          {
+              Id = 3, FullName = "Osama Mostafa", Position = "Senior Developer", Salary = 15000, BirthDate = new DateTime(1997, 2, 27), JoinDateTime = new DateTime(2020, 1, 22), IsActive = true
+          },
+          new Employee
+          {
+              Id = 4, FullName = "Ahmed Hassan", Position = "Developer", Salary = 10500, BirthDate = new DateTime(1999, 7, 21), JoinDateTime = new DateTime(2021, 3, 25),
+              IsActive = true
+    }
+};
+}
+     <ul class=" list-group col-4">
+         <li class=" list-group-item active">Employee</li>
+    @foreach(var employee in employees)
+    {
+        <li class=" list-group-item list-group-item-action">@employee.FullName (@employee.Position)</li>
+    }
+
+     </ul>
+      <hr />
+       @if(employees.Count() > 0){
+           <table class="table table-bordered table-striped table-hover">
+               <thead>
+            <tr><th>Id</th><th>Full Name</th><th>Position</th><th>Salary</th></tr>
+               </thead>
+               <tbody>
+            @foreach(var employee in employees)
+            {
+                <tr><td>@employee.Id</td><td>@employee.FullName</td><td>@employee.Position</td><td>@employee.Salary</td></tr>
+            }
+        </tbody>
+               <tfoot>
+                   <tr>
+                       <th colspan="3" style="text-align:right">Total</th>
+                <th>@employees.Sum(e=>e.Salary)</th>
+                   </tr>
+               </tfoot>
+           </table>
+       }
+       else{
+           <h1 class="alert alert-danger text-center">There is no Data</h1>
+       }
+
+
+@{
+    Department dept = new Department
+            {
+                Id = 1,
+                Name = "Department 1",
+                Description = "Department 1",
+                AnnualBudget = 12500,
+                StartDate = new DateTime(2000, 10, 5),
+                IsActive = true,
+            };
+}
+<d1 class="row">
+    <dt class="col-1">Id</dt>
+    <dd class="col-11">@dept.Id</dd>
+
+    <dt class="col-1">Name</dt>
+    <dd class="col-11">@dept.Name</dd>
+
+    <dt class="col-1">Description</dt>
+    <dd class="col-11">@dept.Description</dd>
+
+    <dt class="col-1">Annual Budget</dt>
+    <dd class="col-11">@dept.AnnualBudget</dd>
+
+    <dt class="col-1">Start Date</dt>
+    <dd class="col-11">@dept.StartDate</dd>
+
+    <dt class="col-1">Is Active</dt>
+    <dd class="col-11">@emp.IsActive</dd>
+</d1>
+<hr />
+
+@{
+    List<Department> departments = new List<Department>
+    {
+          dept,
+           new Department{Id = 2, Name = "Department 2", Description = "Department 2", AnnualBudget = 6500, StartDate = new DateTime(2000, 1, 17), IsActive = true },
+           new Department { Id = 3, Name = "Department 3", Description = "Department 3", AnnualBudget = 15000, StartDate = new DateTime(1997, 2, 27), IsActive = true  }
+    };
+}
+<ul class=" list-group col-4">
+    <li class=" list-group-item active">Department</li>
+    @foreach (var department in departments)
+    {
+        <li class=" list-group-item list-group-item-action">@department.Name (@department.Description)</li>
+    }
+</ul>
+<hr />
+@if (departments.Count() > 0)
+{
+    <table class="table table-bordered table-striped table-hover">
+        <thead>
+            <tr><th>Id</th><th>Name</th><th>Description</th><th>Annual Budget</th></tr>
+        </thead>
+        <tbody>
+            @foreach (var department in departments)
+            {
+                <tr><td>@department.Id</td><td>@department.Name</td><td>@department.Description</td><td>@department.AnnualBudget</td></tr>
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <th colspan="3" style="text-align:right">Total</th>
+                <th>@departments.Sum(e=>e.AnnualBudget)</th>
+            </tr>
+        </tfoot>
+    </table>
+}
+else
+{
+    <h1 class="alert alert-danger text-center">There is no Data</h1>
+}
+*@

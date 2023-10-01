@@ -1,0 +1,15 @@
+﻿@model Employee
+
+<div class="card border-primary mb-3">
+    <div class="card-header bg-primary text-white">
+        <h5 class="card-title">Employee Details</h5>
+    </div>
+    <div class="card-body">
+        <partial name="_EmpData" />
+    </div>
+    <div class="card-footer bg-transparent border-primary">
+        <a asp-asp-controller="Employees" asp-action="GetIndexView" class="btn btn-primary"> Back to list</a>
+    </div>
+
+</div>
+

@@ -1,0 +1,44 @@
+﻿@{
+    Employee emp = (Employee)ViewBag.CurrentEmployee;
+}
+
+<div class="row">
+    <d1 class=" col-6">
+
+        <dt class="col-md-3 text-primary">@Html.DisplayNameFor(e => emp.Id)</dt>
+        <dd class="col-md-9">@Model.Id</dd>
+
+        <dt class="col-md-3 text-primary">@Html.DisplayNameFor(e => emp.FullName)</dt>
+        <dd class="col-md-9">@Model.FullName</dd>
+
+        <dt class="col-md-3 text-primary">@Html.DisplayNameFor(e => emp.Position)</dt>
+        <dd class="col-md-9">@Model.PhoneNumber</dd>
+
+        <dt class="col-md-3 text-primary">@Html.DisplayNameFor(e => emp.Salary)</dt>
+        <dd class="col-md-9">@Model.Salary</dd>
+
+        <dt class="col-md-3 text-primary">@Html.DisplayNameFor(e => emp.BirthDate)</dt>
+        <dd class="col-md-9">@Model.BirthDate</dd>
+
+        <dt class="col-md-3 text-primary">@Html.DisplayNameFor(e => emp.JoinDateTime)</dt>
+        <dd class="col-md-9">@Model.JoinDateTime</dd>
+
+        <dt class="col-md-3 text-primary">@Html.DisplayNameFor(e => emp.AttendanceTime)</dt>
+        <dd class="col-md-9">@Model.AttendanceTime</dd>
+
+        <dt class="col-md-3 text-primary">@Html.DisplayNameFor(e => emp.Code)</dt>
+        <dd class="col-md-9">@Model.Code</dd>
+
+        <dt class="col-md-3 text-primary">@Html.DisplayNameFor(e => emp.IsActive)</dt>
+        <dd class="col-md-9">@Model.IsActive</dd>
+
+        <dt class="col-md-3 text-primary">@Html.DisplayNameFor(e => emp.DepartmentId)</dt>
+        <dd class="col-md-9">
+            <a asp-controller="Departments" asp-action="GetDetailsView" asp-route-id="@emp.DepartmentId" style="text-decoration:none">
+                @Html.DisplayFor(e=>emp.Department.Name) (@Html.DisplayFor(e=>emp.Department.Description))
+            </a>
+        </dd>
+
+    </d1>
+    <img src="@emp.ImagePath" class="col-6 card"/>
+</div>

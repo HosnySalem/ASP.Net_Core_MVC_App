@@ -1,0 +1,406 @@
+E:\c# projects\SkyLine\bin\Debug\net7.0\appsettings.Development.json
+E:\c# projects\SkyLine\bin\Debug\net7.0\appsettings.json
+E:\c# projects\SkyLine\bin\Debug\net7.0\SkyLine.staticwebassets.runtime.json
+E:\c# projects\SkyLine\bin\Debug\net7.0\SkyLine.exe
+E:\c# projects\SkyLine\bin\Debug\net7.0\SkyLine.deps.json
+E:\c# projects\SkyLine\bin\Debug\net7.0\SkyLine.runtimeconfig.json
+E:\c# projects\SkyLine\bin\Debug\net7.0\SkyLine.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\SkyLine.pdb
+E:\c# projects\SkyLine\obj\Debug\net7.0\SkyLine.csproj.AssemblyReference.cache
+E:\c# projects\SkyLine\obj\Debug\net7.0\SkyLine.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# projects\SkyLine\obj\Debug\net7.0\SkyLine.AssemblyInfoInputs.cache
+E:\c# projects\SkyLine\obj\Debug\net7.0\SkyLine.AssemblyInfo.cs
+E:\c# projects\SkyLine\obj\Debug\net7.0\SkyLine.csproj.CoreCompileInputs.cache
+E:\c# projects\SkyLine\obj\Debug\net7.0\SkyLine.MvcApplicationPartsAssemblyInfo.cache
+E:\c# projects\SkyLine\obj\Debug\net7.0\SkyLine.RazorAssemblyInfo.cache
+E:\c# projects\SkyLine\obj\Debug\net7.0\SkyLine.RazorAssemblyInfo.cs
+E:\c# projects\SkyLine\obj\Debug\net7.0\staticwebassets\msbuild.SkyLine.Microsoft.AspNetCore.StaticWebAssets.props
+E:\c# projects\SkyLine\obj\Debug\net7.0\staticwebassets\msbuild.build.SkyLine.props
+E:\c# projects\SkyLine\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SkyLine.props
+E:\c# projects\SkyLine\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SkyLine.props
+E:\c# projects\SkyLine\obj\Debug\net7.0\staticwebassets.pack.json
+E:\c# projects\SkyLine\obj\Debug\net7.0\staticwebassets.build.json
+E:\c# projects\SkyLine\obj\Debug\net7.0\staticwebassets.development.json
+E:\c# projects\SkyLine\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\c# projects\SkyLine\obj\Debug\net7.0\scopedcss\bundle\SkyLine.styles.css
+E:\c# projects\SkyLine\obj\Debug\net7.0\scopedcss\projectbundle\SkyLine.bundle.scp.css
+E:\c# projects\SkyLine\obj\Debug\net7.0\SkyLine.dll
+E:\c# projects\SkyLine\obj\Debug\net7.0\refint\SkyLine.dll
+E:\c# projects\SkyLine\obj\Debug\net7.0\SkyLine.pdb
+E:\c# projects\SkyLine\obj\Debug\net7.0\SkyLine.genruntimeconfig.cache
+E:\c# projects\SkyLine\obj\Debug\net7.0\ref\SkyLine.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\Azure.Core.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\Azure.Identity.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\Humanizer.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\System.CodeDom.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\System.Memory.Data.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\c# projects\SkyLine\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\c# projects\SkyLine\obj\Debug\net7.0\SkyLine.csproj.CopyComplete
+E:\c# projects\SkyLine\bin\Debug\net7.0\libman.json
+E:\csProjects\SkyLine\bin\Debug\net7.0\appsettings.Development.json
+E:\csProjects\SkyLine\bin\Debug\net7.0\appsettings.json
+E:\csProjects\SkyLine\bin\Debug\net7.0\libman.json
+E:\csProjects\SkyLine\bin\Debug\net7.0\SkyLine.staticwebassets.runtime.json
+E:\csProjects\SkyLine\bin\Debug\net7.0\SkyLine.exe
+E:\csProjects\SkyLine\bin\Debug\net7.0\SkyLine.deps.json
+E:\csProjects\SkyLine\bin\Debug\net7.0\SkyLine.runtimeconfig.json
+E:\csProjects\SkyLine\bin\Debug\net7.0\SkyLine.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\SkyLine.pdb
+E:\csProjects\SkyLine\bin\Debug\net7.0\Azure.Core.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\Azure.Identity.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\Humanizer.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\System.CodeDom.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\System.Memory.Data.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\csProjects\SkyLine\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\csProjects\SkyLine\obj\Debug\net7.0\SkyLine.csproj.AssemblyReference.cache
+E:\csProjects\SkyLine\obj\Debug\net7.0\SkyLine.GeneratedMSBuildEditorConfig.editorconfig
+E:\csProjects\SkyLine\obj\Debug\net7.0\SkyLine.AssemblyInfoInputs.cache
+E:\csProjects\SkyLine\obj\Debug\net7.0\SkyLine.AssemblyInfo.cs
+E:\csProjects\SkyLine\obj\Debug\net7.0\SkyLine.csproj.CoreCompileInputs.cache
+E:\csProjects\SkyLine\obj\Debug\net7.0\SkyLine.MvcApplicationPartsAssemblyInfo.cache
+E:\csProjects\SkyLine\obj\Debug\net7.0\SkyLine.RazorAssemblyInfo.cache
+E:\csProjects\SkyLine\obj\Debug\net7.0\SkyLine.RazorAssemblyInfo.cs
+E:\csProjects\SkyLine\obj\Debug\net7.0\staticwebassets\msbuild.SkyLine.Microsoft.AspNetCore.StaticWebAssets.props
+E:\csProjects\SkyLine\obj\Debug\net7.0\staticwebassets\msbuild.build.SkyLine.props
+E:\csProjects\SkyLine\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SkyLine.props
+E:\csProjects\SkyLine\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SkyLine.props
+E:\csProjects\SkyLine\obj\Debug\net7.0\staticwebassets.pack.json
+E:\csProjects\SkyLine\obj\Debug\net7.0\staticwebassets.build.json
+E:\csProjects\SkyLine\obj\Debug\net7.0\staticwebassets.development.json
+E:\csProjects\SkyLine\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\csProjects\SkyLine\obj\Debug\net7.0\scopedcss\bundle\SkyLine.styles.css
+E:\csProjects\SkyLine\obj\Debug\net7.0\scopedcss\projectbundle\SkyLine.bundle.scp.css
+E:\csProjects\SkyLine\obj\Debug\net7.0\SkyLine.csproj.CopyComplete
+E:\csProjects\SkyLine\obj\Debug\net7.0\SkyLine.dll
+E:\csProjects\SkyLine\obj\Debug\net7.0\refint\SkyLine.dll
+E:\csProjects\SkyLine\obj\Debug\net7.0\SkyLine.pdb
+E:\csProjects\SkyLine\obj\Debug\net7.0\SkyLine.genruntimeconfig.cache
+E:\csProjects\SkyLine\obj\Debug\net7.0\ref\SkyLine.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\appsettings.Development.json
+E:\Projects\SkyLine\bin\Debug\net7.0\appsettings.json
+E:\Projects\SkyLine\bin\Debug\net7.0\libman.json
+E:\Projects\SkyLine\bin\Debug\net7.0\SkyLine.staticwebassets.runtime.json
+E:\Projects\SkyLine\bin\Debug\net7.0\SkyLine.exe
+E:\Projects\SkyLine\bin\Debug\net7.0\SkyLine.deps.json
+E:\Projects\SkyLine\bin\Debug\net7.0\SkyLine.runtimeconfig.json
+E:\Projects\SkyLine\bin\Debug\net7.0\SkyLine.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\SkyLine.pdb
+E:\Projects\SkyLine\bin\Debug\net7.0\Azure.Core.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\Azure.Identity.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\Humanizer.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\System.CodeDom.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Projects\SkyLine\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Projects\SkyLine\obj\Debug\net7.0\SkyLine.csproj.AssemblyReference.cache
+E:\Projects\SkyLine\obj\Debug\net7.0\SkyLine.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\SkyLine\obj\Debug\net7.0\SkyLine.AssemblyInfoInputs.cache
+E:\Projects\SkyLine\obj\Debug\net7.0\SkyLine.AssemblyInfo.cs
+E:\Projects\SkyLine\obj\Debug\net7.0\SkyLine.csproj.CoreCompileInputs.cache
+E:\Projects\SkyLine\obj\Debug\net7.0\SkyLine.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\SkyLine\obj\Debug\net7.0\SkyLine.RazorAssemblyInfo.cache
+E:\Projects\SkyLine\obj\Debug\net7.0\SkyLine.RazorAssemblyInfo.cs
+E:\Projects\SkyLine\obj\Debug\net7.0\staticwebassets\msbuild.SkyLine.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Projects\SkyLine\obj\Debug\net7.0\staticwebassets\msbuild.build.SkyLine.props
+E:\Projects\SkyLine\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SkyLine.props
+E:\Projects\SkyLine\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SkyLine.props
+E:\Projects\SkyLine\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Projects\SkyLine\obj\Debug\net7.0\staticwebassets.build.json
+E:\Projects\SkyLine\obj\Debug\net7.0\staticwebassets.development.json
+E:\Projects\SkyLine\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Projects\SkyLine\obj\Debug\net7.0\scopedcss\bundle\SkyLine.styles.css
+E:\Projects\SkyLine\obj\Debug\net7.0\scopedcss\projectbundle\SkyLine.bundle.scp.css
+E:\Projects\SkyLine\obj\Debug\net7.0\SkyLine.csproj.CopyComplete
+E:\Projects\SkyLine\obj\Debug\net7.0\SkyLine.dll
+E:\Projects\SkyLine\obj\Debug\net7.0\refint\SkyLine.dll
+E:\Projects\SkyLine\obj\Debug\net7.0\SkyLine.pdb
+E:\Projects\SkyLine\obj\Debug\net7.0\SkyLine.genruntimeconfig.cache
+E:\Projects\SkyLine\obj\Debug\net7.0\ref\SkyLine.dll
+E:\projects\SkyLine\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\projects\SkyLine\bin\Debug\net7.0\Microsoft.Build.dll
+E:\projects\SkyLine\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+E:\projects\SkyLine\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\projects\SkyLine\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+E:\projects\SkyLine\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\projects\SkyLine\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\projects\SkyLine\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\projects\SkyLine\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\projects\SkyLine\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+E:\projects\SkyLine\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+E:\projects\SkyLine\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\projects\SkyLine\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\projects\SkyLine\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+E:\projects\SkyLine\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\projects\SkyLine\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+E:\projects\SkyLine\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\projects\SkyLine\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\projects\SkyLine\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+E:\projects\SkyLine\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\projects\SkyLine\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\projects\SkyLine\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\projects\SkyLine\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\projects\SkyLine\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\projects\SkyLine\bin\Debug\net7.0\NuGet.Common.dll
+E:\projects\SkyLine\bin\Debug\net7.0\NuGet.Configuration.dll
+E:\projects\SkyLine\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+E:\projects\SkyLine\bin\Debug\net7.0\NuGet.Frameworks.dll
+E:\projects\SkyLine\bin\Debug\net7.0\NuGet.LibraryModel.dll
+E:\projects\SkyLine\bin\Debug\net7.0\NuGet.Packaging.dll
+E:\projects\SkyLine\bin\Debug\net7.0\NuGet.ProjectModel.dll
+E:\projects\SkyLine\bin\Debug\net7.0\NuGet.Protocol.dll
+E:\projects\SkyLine\bin\Debug\net7.0\NuGet.Versioning.dll
+E:\projects\SkyLine\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+E:\projects\SkyLine\bin\Debug\net7.0\System.Composition.Convention.dll
+E:\projects\SkyLine\bin\Debug\net7.0\System.Composition.Hosting.dll
+E:\projects\SkyLine\bin\Debug\net7.0\System.Composition.Runtime.dll
+E:\projects\SkyLine\bin\Debug\net7.0\System.Composition.TypedParts.dll
+E:\projects\SkyLine\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+E:\projects\SkyLine\bin\Debug\net7.0\af\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\ar\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\az\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\bg\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\cs\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\da\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\de\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\el\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\es\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\fa\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\fr\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\he\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\hr\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\hu\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\hy\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\id\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\is\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\it\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\ja\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\ku\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\lv\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\mt\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\nb\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\nl\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\pl\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\pt\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\ro\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\ru\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\sk\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\sl\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\sr\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\sv\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\tr\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\uk\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\vi\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\SkyLine\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\projects\SkyLine\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\projects\SkyLine\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\projects\SkyLine\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\projects\SkyLine\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

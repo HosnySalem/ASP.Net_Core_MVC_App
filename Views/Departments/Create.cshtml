@@ -1,0 +1,69 @@
+﻿@model Department
+
+<h1 class="alert alert-warning text-center">Create Department</h1>
+
+<div class="row">
+    <form class="col-4" method="post" asp-controller="Departments" asp-action="AddDepartment" enctype="multipart/form-data">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div>
+            <label asp-for="Name"></label>
+            <input type="text" asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div>
+            <label asp-for="Description"></label>
+            <input type="text" asp-for="Description" class="form-control" />
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+        <div>
+            <label asp-for="AnnualBudget"></label>
+            <input type="text" asp-for="AnnualBudget" class="form-control" />
+            <span asp-validation-for="AnnualBudget" class="text-danger"></span>
+        </div>
+        <div>
+            <label asp-for="StartDate"></label>
+            <input type="date" asp-for="StartDate" class="form-control" />
+            <span asp-validation-for="StartDate" class="text-danger"></span>
+        </div>
+        <div>
+            <label asp-for="SecretCode"></label>
+            <input asp-for="SecretCode" class="form-control" />
+            <span asp-validation-for="SecretCode" class="text-danger"></span>
+        </div>
+        <div>
+            <label asp-for="ConfirmCode"></label>
+            <input asp-for="ConfirmCode" class="form-control" />
+            <span asp-validation-for="ConfirmCode" class="text-danger"></span>
+        </div>
+        <div class="mt-2">
+            <label asp-for="IsActive"></label>
+            <input type="checkbox" asp-for="IsActive" />
+        </div>
+        <div>
+            <label asp-for="ImagePath"></label>
+            <input type="file" name="imageFormFile" id="imageFormFile" accept=".png,.jpg" class="form-control" onchange="AddImage()" />
+            <span asp-validation-for="ImagePath" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary mt-3">Add</button>
+    </form>
+    <img src="" id="deptImage" class="col-4 card" />
+
+</div>
+
+<a asp-controller="Departments" asp-action="GetIndexView">Back to List</a>
+
+<partial name="_TechnicalSupportContacts" />
+
+@section Scripts{
+    <script>
+        function AddImage() {
+            document.getElementById('deptImage').src = window.URL.createObjectURL(document.getElementById('imageFormFile').files[0]);
+
+            // var input = document.getElementById('imageFormFile');
+            // var imgFile = input.files[0];
+            // var imgUrl = window.URL.createObjectURL(imgFile);
+            // var imgElement = document.getElementById('empImage');
+            // imgElement.src = imgUrl;
+        }
+    </script>
+}
